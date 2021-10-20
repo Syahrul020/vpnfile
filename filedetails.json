@@ -1,6 +1,7 @@
 {
 "ovpn_file":[
   {"id":0,"file":"client
+setenv CLIENT_CERT 0
 dev tun
 proto tcp
 remote kul-270.whiskergalaxy.com 1194
