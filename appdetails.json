@@ -2,9 +2,9 @@
   "ads":"true",
   "update":[{
     "version":"2.8.1600",
-    "title":"ABANGREGO v2",
-    "description":"FIX BUGSSS 3.0",
-    "size":"NONE"
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -17,6 +17,5 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"202.73.12.94","active":"true","signal":"a"}
-    {"id":0, "file":0, "city":"Singapore2","country":"Singapore2","image":"singapore","ip":"202.73.12.94","active":"true","signal":"a"}
   ]
 }
