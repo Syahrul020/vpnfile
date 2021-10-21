@@ -16,13 +16,10 @@ remote 103.106.250.31 1194
 remote 103.106.250.31 1194 
 remote 103.106.250.31 1194 
 verify-x509-name kul-270.windscribe.com name
-
-
 cipher AES-256-GCM
 ncp-ciphers AES-256-GCM:AES-256-CBC:AES-128-GCM
 auth SHA512
 verb 2
-
 nobind
 <auth-user-pass>
 6gzksfdr-tvqm4x7
@@ -40,7 +37,6 @@ rcvbuf 0
 comp-lzo no 
 verb 3
 setenv PUSH_PEER_INFO
-
 key-direction 1
 <ca>
 -----BEGIN CERTIFICATE-----
@@ -98,5 +94,5 @@ c5c4a1874685429046a424c026db672e
 eade34972586b31c6ce7e395f4b478cb
 -----END OpenVPN Static key V1-----
 </tls-auth>,   
-    ]
+   ]
 }
